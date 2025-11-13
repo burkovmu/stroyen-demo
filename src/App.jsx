@@ -2976,7 +2976,7 @@ function AppContent() {
               <FooterLink href="/payment">Оплата</FooterLink>
               <FooterLink href="/warranty">Гарантия</FooterLink>
               <FooterLink href="/return">Возврат</FooterLink>
-              <FooterLink href="/services/verification">Поверка электрооборудования</FooterLink>
+              <FooterLink href="/services/verification">Поверка оборудования</FooterLink>
               <FooterLink href="/services/installation">Монтаж оборудования</FooterLink>
             </FooterColumn>
             <FooterColumn>
@@ -3114,7 +3114,7 @@ function AppContent() {
           <MobileMenuItem href="/payment" onClick={closeMobileMenu}>Оплата</MobileMenuItem>
           <MobileMenuItem href="/warranty" onClick={closeMobileMenu}>Гарантия</MobileMenuItem>
           <MobileMenuItem href="/return" onClick={closeMobileMenu}>Возврат</MobileMenuItem>
-          <MobileMenuItem href="/services/verification" onClick={closeMobileMenu}>Поверка электрооборудования</MobileMenuItem>
+          <MobileMenuItem href="/services/verification" onClick={closeMobileMenu}>Поверка оборудования</MobileMenuItem>
           <MobileMenuItem href="/services/installation" onClick={closeMobileMenu}>Монтаж оборудования</MobileMenuItem>
         </MobileMenuSection>
         
