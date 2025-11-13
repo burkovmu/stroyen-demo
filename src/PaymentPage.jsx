@@ -446,11 +446,11 @@ function PaymentPage() {
               </MethodFeature>
               <MethodFeature>
                 <FontAwesomeIcon icon={faCheckCircle} />
-                Без комиссии
+                Оплата производится курьеру
               </MethodFeature>
               <MethodFeature>
                 <FontAwesomeIcon icon={faCheckCircle} />
-                Квитанция в подарок
+                Проверьте товар перед оплатой
               </MethodFeature>
             </MethodFeatures>
           </PaymentMethodCard>
